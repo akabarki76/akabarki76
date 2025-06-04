@@ -1,5 +1,6 @@
 
-- 👋 Hi, I’m @akabarki76
+- 👋 H![qrcode_github com](https://github.com/user-attachments/assets/f4103e64-c8dd-4d5e-bf9f-e97219f7157a)
+i, I’m @akabarki76
 - 👀 I’m interested in engineering 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
