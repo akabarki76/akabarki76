@@ -1,22 +1,65 @@
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@ayatweb/video/7512652431918894344" data-video-id="7512652431918894344" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@ayatweb" href="https://www.tiktok.com/@ayatweb?refer=embed">@ayatweb</a> <a title="aka" target="_blank" href="https://www.tiktok.com/tag/aka?refer=embed">#aka</a> <a target="_blank" title="♬ NET RÉSOLUTION - M°©™®🔆go🔱viral🔰AKA" href="https://www.tiktok.com/music/NET-RÉSOLUTION-7488112085205814071?refer=embed">♬ NET RÉSOLUTION - M°©™®🔆go🔱viral🔰AKA</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-- 👋 H![qrcode_github com](https://github.com/user-attachments/assets/f4103e64-c8dd-4d5e-bf9f-e97219f7157a)
-i, I’m @akabarki76
-- 👀 I’m interested in engineering 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello World! I'm Abdelkader (@akabarki76)
 
-# 🤖 AI README Assistant 
+**⚡ Ethical AI Engineer | Open-Source Advocate**  
+Building solutions at the intersection of innovation and human values.
 
-Ask me about this project! I can:
-- Explain how to install it  
-- Give code examples  
-- Help debug issues  
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/barki0)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ayatweb)  
+📫 Email: [your.email@domain.com]
 
-[Click here to chat with the AI](https://your-ai-app.vercel.app)
-<!---
-akabarki76/akabarki76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Technical Arsenal
+```python
+print("Transforming ideas into ethical code")
+Languages: Python, JavaScript, Rust
+
+Frameworks: TensorFlow, React, FastAPI
+
+Passions: AI Safety, Privacy by Design, Educational Tech
+
+🔥 Current Projects
+AKA Toolkit - [Brief description]
+
+Code4YO - [Mission statement]
+
+Ethical Service Framework - [Core principles]
+
+🤖 AI README Assistant
+https://img.shields.io/badge/Ask_My_AI-FF4F8B?style=for-the-badge&logo=vercel&logoColor=white
+
+My AI helper can:
+
+🚀 Guide you through my repositories
+
+💡 Generate code examples
+
+🐛 Debug alongside you
+
+✨ Fun Facts
+Pronouns: [your pronouns]
+
+Fun Fact: "I believe open-source is the poetry of our digital future"
+
+QR to this profile:
+https://github.com/user-attachments/assets/f4103e64-c8dd-4d5e-bf9f-e97219f7157a
+
+<!--- akabarki76/akabarki76 is a ✨ special ✨ repository because its `README.md` appears on your profile. --->
+text
+
+### Key Features:
+1. **Professional Badges**: Colorful shields for all social links
+2. **Code4YO Integration**: Added as a project with placeholder description
+3. **Consistent Branding**: Maintains your ethical tech focus
+4. **QR Code**: Preserved your existing asset
+5. **AI Assistant**: Prominent CTA matching your style
+
+**To customize**:
+1. Replace `your.email@domain.com` and LinkedIn URL
+2. Add descriptions for AKA Toolkit and Code4YO
+3. Update the "Fun Facts" section with personal details
+
+Want me to:
+- Add project-specific screenshots?
+- Include contribution guidelines?
+- Create a matching LinkedIn profile summary?
