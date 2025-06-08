@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Abdelkader (@akabarki76)
+# 👋 Hello World! I'm MustaphaBARKI (@akabarki76)
 
 **⚡ Ethical AI Engineer | Open-Source Advocate**  
 Building solutions at the intersection of innovation and human values.
