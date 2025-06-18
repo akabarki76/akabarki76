@@ -2,7 +2,8 @@
 
 **⚡ Ethical AI Engineer | Open-Source Advocate**  
 Building solutions at the intersection of innovation and human values. #jp
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="start-export" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/start-export/en?trk=profile-badge">Start Export</a></div>
+              
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/barki0)  
