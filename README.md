@@ -6,7 +6,7 @@ Building solutions at the intersection of innovation and human values. #jp
   ![IMG_0114](https://github.com/user-attachments/assets/1cd49d13-e2c1-47a8-a39d-01b73d42eeb3)
             
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/barki0)  
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ayatweb)  
 📫 Email: [code4yo@gmail.com]
