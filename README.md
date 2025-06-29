@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 👋 Hello World! I'm MustaphaBARKI (@akabarki76)
 
 **⚡ Ethical AI Engineer | Open-Source Advocate**
