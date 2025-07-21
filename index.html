@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Snake Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Snake Game</h1>
+    <div>Score: <span id="score">0</span></div>
+    <div id="gameOver" style="display: none;">
+        <h2>Game Over!</h2>
+        <button onclick="location.reload()">Play Again</button>
+    </div>
+    <canvas id="gameCanvas"></canvas>
+    <script src="game.js"></script>
+    <script>
+        const game = new Game('gameCanvas');
+        game.loop();
+    </script>
+</body>
+</html>
